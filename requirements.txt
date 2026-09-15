@@ -1,0 +1,8 @@
+numpy>=2.0
+pandas>=2.0
+Pillow>=10.0
+tabulate>=0.9
+psutil>=5.9
+matplotlib>=3.8
+requests
+pytest
